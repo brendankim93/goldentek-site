@@ -179,18 +179,6 @@ const TftPage = () => {
             <div style={tableContainer}>
                 <Table data={data} columns={columns} />
             </div>
-            {/* <div style={buttonDiv}>
-                <a 
-                  style={linkStyle} 
-                  target="_blank" 
-                  rel="noreferrer"
-                  href="https://docs.google.com/spreadsheets/d/14rYu_szcir2kuMKnxaUBkxLfvMINVReGqMuYwByI1Co/edit?gid=286064987#gid=286064987"
-                >
-                    <button style={heroButtonStyles}>
-                        View Specifications
-                    </button>
-                </a>
-            </div> */}
             <ProductCards />
             <Footer />
         </React.Fragment>

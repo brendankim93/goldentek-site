@@ -5,11 +5,11 @@ import { ContactForm } from "../components/contactForm";
 
 const ContactPage = () => {
     return (
-        <>
+        <React.Fragment>
         <NavBar />
         <ContactForm />
         <Footer />
-        </>
+        </React.Fragment>
     );
 };
 

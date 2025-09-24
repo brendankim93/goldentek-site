@@ -6,12 +6,12 @@ import { ProductCards } from '../components/productCards';
 
 const ProductsPage = () => {
     return (
-        <>
+        <React.Fragment>
           <NavBar />
           <ProductCards />
           <ContactForm /> 
           <Footer />
-        </>
+        </React.Fragment>
     );
 };
 

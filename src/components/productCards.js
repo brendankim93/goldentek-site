@@ -83,7 +83,7 @@ const productsContainerStyles = {
     marginBottom: "1.5rem"
   };
 
-const ProductCards = () => {
+export const ProductCards = () => {
     const [hoverTft, setHoverTft] = React.useState(false);
     const [hoverOled, setHoverOled] = React.useState(false);
     const [hoverMono, setHoverMono] = React.useState(false);
@@ -136,5 +136,3 @@ const ProductCards = () => {
         </React.Fragment>
     );
 };
-
-export default ProductCards;
