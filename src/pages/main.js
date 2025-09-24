@@ -1,6 +1,6 @@
 import React, { useState } from "react"
 import '../styles.css'
-import tft from '../images/TFT lime.jpg'
+import tft from '../images/TFTlime.jpg'
 import oled from '../images/oled image.jpg'
 import mono from '../images/mono-display.jpg'
 import gradient from '../images/gradient.jpg';

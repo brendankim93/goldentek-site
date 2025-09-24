@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { Link } from "gatsby";
-import tft from '../images/TFT lime.jpg';
+import tft from '../images/TFTLime.jpg';
 import mono from '../images/mono-display.jpg'
 import oled2 from '../images/oled2.jpg'
 
