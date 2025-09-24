@@ -3,7 +3,7 @@ import mono from '../images/mono.jpg';
 import { data, standardGraphic } from '../data/mono_modules_data';
 import { NavBar } from "../components/navbar";
 import { Footer } from "../components/footer";
-import ProductCards from "../components/ProductCards";
+import { ProductCards } from "../components/productCards";
 
 const divStyle = {
     display: "flex",

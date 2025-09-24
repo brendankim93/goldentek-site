@@ -2,7 +2,7 @@ import * as React from "react";
 import { Link } from "gatsby";
 import { NavBar } from "../components/navbar";
 import { Footer } from "../components/footer";
-import ProductCards from '../components/productCards';
+import { ProductCards } from '../components/productCards';
 import InfoPage from './info';
 import IndustriesPage from './industries';
 import { ContactForm } from '../components/contactForm';

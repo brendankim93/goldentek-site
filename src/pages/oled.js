@@ -3,7 +3,7 @@ import oled from '../images/oled1.jpg';
 import { data } from '../data/oled_modules_data';
 import { NavBar } from "../components/navbar";
 import { Footer } from "../components/footer";
-import ProductCards from "../components/ProductCards";
+import { ProductCards } from "../components/productCards";
 
 const divStyle = {
     display: "flex",

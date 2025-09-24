@@ -3,7 +3,7 @@ import { NavBar } from "../components/navbar";
 import { Footer } from "../components/footer";
 import tft from '../images/tft2.jpg';
 import { data } from '../data/tft_modules_data';
-import ProductCards from "../components/productCards";
+import { ProductCards } from "../components/productCards";
 
 const containerStyle = {
   margin: "2rem auto",
